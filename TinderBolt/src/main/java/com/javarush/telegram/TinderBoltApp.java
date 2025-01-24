@@ -12,9 +12,9 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 import java.util.ArrayList;
 
 public class TinderBoltApp extends MultiSessionTelegramBot {
-    public static final String TELEGRAM_BOT_NAME = "myFirstBotTinder_bot";
-    public static final String TELEGRAM_BOT_TOKEN = "7766262772:AAG7aieH7MYhCaqUU8IOOQWqBu-3KsOhoe4";
-    public static final String OPEN_AI_TOKEN = "gpt:GMEpATyDssZWFB4H2wdsJFkblB3TtbsOsfleLvmgKt8qL2qt";
+    public static final String TELEGRAM_BOT_NAME = "******************";
+    public static final String TELEGRAM_BOT_TOKEN = "********************";
+    public static final String OPEN_AI_TOKEN = "**************************";
     public TinderBoltApp() {
         super(TELEGRAM_BOT_NAME, TELEGRAM_BOT_TOKEN);
     }
